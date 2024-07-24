@@ -1,0 +1,14 @@
+__pycache__
+.DS_Store
+.conda
+.vscode
+/data/FUCCI
+/data/FUCCI_RFP_GFP
+/data/FUCCI_uncropped
+/data/Hoechst
+.vscode
+/json_test
+/gfp_rfp_prediction
+/mitochondria_nucleus_prediction
+/SRGAN
+/test
